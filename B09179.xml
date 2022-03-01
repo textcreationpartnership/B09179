@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A ballad on the gyants in the physick garden in Oxford, who have been breeding feet as long as garagantua was teeth.  To the tune of, The counter scuffle</title>
+            <author>Gayton, Edmund, 1608-1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09179</idno>
+            <idno type="STC">Wing G406A</idno>
+            <idno type="STC">ESTC R177547</idno>
+            <idno type="EEBO-CITATION">64551286</idno>
+            <idno type="OCLC">ocm 64551286</idno>
+            <idno type="VID">184586</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09179)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184586)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2867:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A ballad on the gyants in the physick garden in Oxford, who have been breeding feet as long as garagantua was teeth.  To the tune of, The counter scuffle</title>
+                  <author>Gayton, Edmund, 1608-1666.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Edmund Gayton.  Cf. Wing (2nd ed.).</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadside has faded print.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:184586:1" rendition="simple:additions"/>
+            <head>A Ballad on the Gyants in the Phyſick Garden in OXFORD, who have been breeding feet as long as Garagantua was Teeth.</head>
+            <opener>To the Tune of the Counter Scuffle.</opener>
+            <lg>
+               <l>WHat is our Oxford Africa?</l>
+               <l>It teemeth Monſters every day</l>
+               <l>About Eaſt-bridge which is the way</l>
+               <l>To <hi>Whately.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In <hi>Boberts</hi> Garden there are two,</l>
+               <l>Which lately had nor foot nor ſhoo,</l>
+               <l>Which now have both in publique view</l>
+               <l>moſt ſtately.</l>
+            </lg>
+            <lg>
+               <l>That theſe are Gyants you may gueſſe,</l>
+               <l>Byth' Foot as well as Hercules,</l>
+               <l>And as by Tallons nothing leſſe</l>
+               <l>Than th' Lyon.</l>
+            </lg>
+            <lg>
+               <l>They'r Grimme as any dogge of Hell,</l>
+               <l>Though heads ſo many we cant tell,</l>
+               <l>For only two (and yet that's well)</l>
+               <l>We ſpy on.</l>
+            </lg>
+            <lg>
+               <l>Two heads are better farre then one</l>
+               <l>In any Conſultation,</l>
+               <l>But theſe don't joyn but fix like ſtone,</l>
+               <l>Their Noddles.</l>
+            </lg>
+            <lg>
+               <l>They ſpeak by Figures or by ſignes</l>
+               <l>Without Communication lines,</l>
+               <l>Or any Books of deep Divines</l>
+               <l>New Moddles.</l>
+            </lg>
+            <lg>
+               <l>Without th'Library or the place</l>
+               <l>At the South Port, where <hi>Bacons</hi> Face</l>
+               <l>A Fryar of our Engliſh Race</l>
+               <l>Did venture.</l>
+            </lg>
+            <lg>
+               <l>On that men call, bleſſe us! Black Art,</l>
+               <l>By which he made the clowns to ſtart,</l>
+               <l>And drove ſome of them with a F—</l>
+               <l>To th'Center.</l>
+            </lg>
+            <lg>
+               <l>This <hi>Roger</hi> (ſo his Forename ſhews)</l>
+               <l>Theſe heads did make, with Copper Noſe</l>
+               <l>And taught them language that out goes</l>
+               <l>Our knowledge.</l>
+            </lg>
+            <lg>
+               <l>But how I wonder came their Feet</l>
+               <l>So greene, ſo great, ſo thick, ſo neat</l>
+               <l>A hundred come them for to greet</l>
+               <l>From Colledge.</l>
+            </lg>
+            <lg>
+               <l>Nay one from <hi>Ricot</hi> of late dayes</l>
+               <l>Who 'mong th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Peers may wear the Bays</l>
+               <l>Theſe verdant Gallants to their praiſe</l>
+               <l>Did viſit.</l>
+            </lg>
+            <lg>
+               <l>Whereby theſe Gyants credit got</l>
+               <l>And he that late the Poem wrot,</l>
+               <l>But 'tis <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ballad, is it not?</l>
+               <l>Who'le miſſe it.</l>
+            </lg>
+            <lg>
+               <l>Our Gyants are familiar</l>
+               <l>With Simpling Tribe, and miniſter</l>
+               <l>The Plant, <hi>Tres-humble Serviteur.</hi>
+               </l>
+               <l>And Phyſick</l>
+            </lg>
+            <lg>
+               <l>Of Agrimony, Sage, and Rue</l>
+               <l>And garden Rhabarb, Doſed true,</l>
+               <l>If <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>By <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>They guard a Book full of ſuch Plants</l>
+               <l>And fright out ſnailes, locuſts, and Ants</l>
+               <l>And any vermin foule that haunts</l>
+               <l>Theſe places.</l>
+            </lg>
+            <lg>
+               <l>Apples they doe preſerve as good,</l>
+               <l>As in Heſperian Orchard ſtood,</l>
+               <l>Which make Lambs-wooll <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>All ſorts of Cherries doe grow here,</l>
+               <l>And ſtrawberries frequent appeare,</l>
+               <l>Conceive I pray at time oth' yeare,</l>
+               <l>For Winter</l>
+            </lg>
+            <lg>
+               <l>As well as Time, will nip ſweet Face</l>
+               <l>And ſpoyle thoſe Colours Ladys Grace</l>
+               <l>When that Grim fire doth ſet his Mace</l>
+               <l>Or Print there.</l>
+            </lg>
+            <lg>
+               <l>Here's medc'nall herbs for Galeniſts,</l>
+               <l>Not powders for our new Chymiſts</l>
+               <l>Who are lame <hi>Vulcans</hi> firy Prieſts</l>
+               <l>And hammer</l>
+            </lg>
+            <lg>
+               <l>Spirits out of the ſimple leaves</l>
+               <l>And vig'rous duſt, which Jeſuit gives</l>
+               <l>Far worſe the patient oft receives</l>
+               <l>From's Gammer.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Alders-gate</hi> ſtreet doth not afford</l>
+               <l>Such heaps of hearbs for bed, or board,</l>
+               <l>Nor piles of Sallats, ſawces ſtor'd</l>
+               <l>For belly,</l>
+            </lg>
+            <lg>
+               <l>Nor Weſtminſter, nor yet the Strand</l>
+               <l>Nor any Garden of the Land</l>
+               <l>Such hearbs as come through <hi>Jacobs</hi> hand</l>
+               <l>Can ſell yee.</l>
+            </lg>
+            <lg>
+               <l>Beſides the Marvells of <hi>Peru,</hi>
+               </l>
+               <l>Of moſt delicious various hue</l>
+               <l>No Painter can with pencill doe</l>
+               <l>Such colours.</l>
+            </lg>
+            <lg>
+               <l>There's ſtemms of Alo's like Whale-bone,</l>
+               <l>And teeth like Sword-fiſh every one,</l>
+               <l>Yet never yet hurt any one</l>
+               <l>Oth' Scholars:</l>
+            </lg>
+            <lg>
+               <l>For <hi>Jacob</hi> and his Gyants will</l>
+               <l>Not ſuffer any thing that's ill</l>
+               <l>(Unleſſe it be for purge or pill)</l>
+               <l>There growing,</l>
+            </lg>
+            <lg>
+               <l>For all the plants are of his paines,</l>
+               <l>He diggs, he ſetts, but heaven raines</l>
+               <l>But 'las! he has but little gaines</l>
+               <l>For's Sowing.</l>
+            </lg>
+            <lg>
+               <l>There is a youth call'd little <hi>Jack</hi>
+               </l>
+               <l>That ſhall with working break his back</l>
+               <l>(Unleſſe his breakfaſt he do lack)</l>
+               <l>Hee'l muck it</l>
+            </lg>
+            <lg>
+               <l>Like any plowman in the field</l>
+               <l>Untill the ground her fruit doe yeeld,</l>
+               <l>So of't with water hath he fill'd</l>
+               <l>His Bucket.</l>
+            </lg>
+            <lg>
+               <l>What would you more then Gyants high</l>
+               <l>Forbeare yee to approach too nigh,</l>
+               <l>You'l fright the Lady <hi>Dulciny</hi>
+               </l>
+               <l>
+                  <hi>TO BOSO.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And yet that Lady hath a Knight</l>
+               <l>That wil drink w<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen he ſhould li<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his might</l>
+               <l>To doe ſo.</l>
+            </lg>
+            <lg>
+               <l>To all adventures dangerous,</l>
+               <l>As the Mill nigh can tell to us,</l>
+               <l>This Knight w<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſome times ficrcely ruſh</l>
+               <l>And's Man ſterne</l>
+            </lg>
+            <lg>
+               <l>Theres no av<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ding of that Knight,</l>
+               <l>
+                  <gap reason="illegible" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Lanthorne.</l>
+            </lg>
+            <lg>
+               <l>Not <hi>Faux</hi>-like on a black deſigne</l>
+               <l>To mirth he only doth incline</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd hath a Page, if no Moon ſhine,</l>
+               <l>Attending</l>
+            </lg>
+            <lg>
+               <l>For hee'l not carry coales nor light</l>
+               <l>Nor yet his Squire, who goes upright</l>
+               <l>But yet they are for any wight</l>
+               <l>Defending</l>
+            </lg>
+            <lg>
+               <l>Or injur'd Lady, or Fleec'd ſheepe</l>
+               <l>Good lack what Racket they doe keep</l>
+               <l>And never Eat, nor Drink, nor Sleepe</l>
+               <l>Till Gyant,</l>
+            </lg>
+            <lg>
+               <l>And one-eyd Monſters humbled are</l>
+               <l>Unto their feet, which ſmell moſt rare,</l>
+               <l>With making conſtant Fewd, and warre</l>
+               <l>ô Fie on't!</l>
+            </lg>
+            <lg>
+               <l>What though theſe Gyants harneſt be</l>
+               <l>Compleatly too, That's Cap a Pe,</l>
+               <l>And can with Feet deale luſtily</l>
+               <l>In boxes.</l>
+            </lg>
+            <lg>
+               <l>Yet Don <hi>Quixot</hi> is arm'd allſo</l>
+               <l>With braſſe helmet of <hi>Mambrino</hi>
+               </l>
+               <l>Hee'l ſuffer them no harme to do</l>
+               <l>To's doxes:</l>
+            </lg>
+            <lg>
+               <l>So that 'tis prudence to induce</l>
+               <l>The Knight and Giants to a Truce,</l>
+               <l>That we the Garden ſtill may uſe</l>
+               <l>In quiet,</l>
+            </lg>
+            <lg>
+               <l>And drink what ſprings from Scurvy gras</l>
+               <l>(Without making a ſcurvy face,)</l>
+               <l>So ſhall we keep this pleaſant place</l>
+               <l>From Riot</l>
+            </lg>
+            <lg>
+               <l>And filthy Routs which ſpoile ſoft joyes,</l>
+               <l>The ſports of the mad Girles, and Boyes,</l>
+               <l>When they are in their merry Toyes</l>
+               <l>And Ranting</l>
+            </lg>
+            <lg>
+               <l>But <hi>Bobert</hi> is a ſober ſoule</l>
+               <l>And watches like an <hi>Athens</hi> Oule</l>
+               <l>To ſee of mirth no lawfull jowle</l>
+               <l>Be wanting.</l>
+            </lg>
+            <lg>
+               <l>But if the Poet, as is meet,</l>
+               <l>For theſe his paines you do not greet</l>
+               <l>He thus takes pennance in a ſheet</l>
+               <l>To pleaſe you.</l>
+            </lg>
+            <lg>
+               <l>In Print when he doth next appeare</l>
+               <l>He hopes to make it plaine and cleare</l>
+               <l>That of your Melancholy feare</l>
+               <l>Hee'l eaſe you,</l>
+            </lg>
+            <lg>
+               <l>If not hee'l lay another gin</l>
+               <l>And try to catch you once therein</l>
+               <l>To put you on a merry pin</l>
+               <l>And jolly:</l>
+            </lg>
+            <lg>
+               <l>If then he failes his <hi>Badger</hi> rimes</l>
+               <l>Shall to the tune of <hi>Carfax</hi> Chimes.</l>
+               <l>Sing <hi>Nought <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>l pleaſe the preſent times</hi>
+               </l>
+               <l>
+                  <hi>But Folly.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS. <add>1662</add>
+         </trailer>
+      </body>
+   </text>
+</TEI>
